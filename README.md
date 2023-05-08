@@ -1,6 +1,6 @@
 # my-quarkus-app-30
 
-
+asdf
 
 ## Running the application in dev mode
 
